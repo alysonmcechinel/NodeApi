@@ -1,6 +1,6 @@
 # NodeApi
 
-API RESTful com Node.js e MongoDB (crud com node, express e Mongoose)
+Minha primeira API RESTful com Node.js e MongoDB (crud com node, express e Mongoose)
 
 - Instalar as dependencias
 npm install express nodemon mongoose dotenv
